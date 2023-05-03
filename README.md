@@ -1,1 +1,1 @@
-# indvidual_project
+# individually_project
